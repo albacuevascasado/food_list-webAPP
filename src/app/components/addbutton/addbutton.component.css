@@ -1,0 +1,11 @@
+.btn {
+    display:flex;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    margin: auto;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: inherit;
+  }

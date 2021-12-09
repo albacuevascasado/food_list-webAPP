@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "title": "manzana",
+      "price": 20.5,
+      "quantity": 4,
+      "completed": false
+    },
+    {
+      "id": 1,
+      "title": "pan",
+      "price": 10.5,
+      "quantity": 2,
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "peras",
+      "price": "3",
+      "quantity": "7",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "canela",
+      "price": "4",
+      "quantity": "1",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "chocolate ",
+      "price": "7",
+      "quantity": "3",
+      "completed": true
+    },
+    {
+      "id": 6,
+      "title": "leche",
+      "price": "2",
+      "quantity": "1",
+      "completed": false
+    }
+  ]
+}
